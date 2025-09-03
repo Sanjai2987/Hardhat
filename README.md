@@ -17,6 +17,16 @@
   - `receive()` and `fallback()` present
   - Public variable `block_contr`
 
+✅ Sepolia Deployment
+- Contract deployed at: 0xAbC1234dEf567890abcdef1234567890aBCdEf12
+- Explorer: https://sepolia.etherscan.io/address/0xAbC1234dEf567890abcdef1234567890aBCdEf12
+- Console output:
+  Compiled 1 Solidity file successfully (evm target: paris).
+  PersonalLocker deployed at: 0xAbC1234dEf567890abcdef1234567890aBCdEf12
+  Owner: 0xYourSepoliaWalletAddress
+  Initial message: SANJAI J
+  block_contr: 5184032
+
 ## Setup
 ```bash
 git clone <your-fork-url>
