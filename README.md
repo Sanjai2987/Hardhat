@@ -17,11 +17,6 @@
   - `receive()` and `fallback()` present
   - Public variable `block_contr`
 
-  ## Sepolia Deployment
-- Contract deployed at: 0x...
-- Explorer: https://sepolia.etherscan.io/address/0x...
-- Console output:
-
 ## Setup
 ```bash
 git clone <your-fork-url>
